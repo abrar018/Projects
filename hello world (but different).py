@@ -7,7 +7,6 @@ def c(string):
 def f():
     s='hello world'
     s=c(s)
-    print(s)
     i='abcdefghijklmnopqrstuvwxyz'
     i=c(i)
     n=['a','a','a','a','a',' ','a','a','a','a','a',]
